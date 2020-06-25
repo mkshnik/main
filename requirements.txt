@@ -1,0 +1,4 @@
+Requirements:
+    1. Python 3.7+
+    2. Pyglet, numpy and random libraries
+    3. 300 - 500 kilobytes of available disc space
